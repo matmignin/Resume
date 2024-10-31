@@ -1,2 +1,2 @@
-# Resume
-Inforgrafic Resume website
+# matmignin.github.io
+Resume Website for Mat Mignin

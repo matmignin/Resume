@@ -1,0 +1,906 @@
+----------
+
+Fri Apr 03 2020 18:55:30 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+   f9efd85..602013d  master -> master
+
+
+----------
+
+Fri Apr 03 2020 19:00:38 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+
+
+----------
+
+Fri Apr 03 2020 19:00:38 GMT-0400 (Eastern Daylight Time)
+
+   602013d..73f1357  master -> master
+
+
+----------
+
+Fri Apr 03 2020 19:03:02 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+   73f1357..18ea1e3  master -> master
+
+
+----------
+
+Fri Apr 03 2020 19:57:14 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+   18ea1e3..de59ab2  master -> master
+
+
+----------
+
+Fri Apr 03 2020 20:31:43 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+   de59ab2..4bada21  master -> master
+
+
+----------
+
+Fri Apr 03 2020 20:52:56 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+   4bada21..f846a5a  master -> master
+
+
+----------
+
+Fri Apr 03 2020 21:00:13 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+   f846a5a..5b486dc  master -> master
+
+
+----------
+
+Sat Apr 11 2020 13:47:14 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+   5b486dc..09d7388  master -> master
+
+
+----------
+
+Sat Apr 18 2020 00:03:47 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+   09d7388..4a0e921  master -> master
+
+
+----------
+
+Sat Apr 18 2020 13:36:50 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+   4a0e921..4e2296a  master -> master
+
+
+----------
+
+Sat Apr 18 2020 13:38:06 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+
+
+----------
+
+Sat Apr 18 2020 13:38:06 GMT-0400 (Eastern Daylight Time)
+
+   4e2296a..1942998  master -> master
+
+
+----------
+
+Sat Apr 18 2020 13:41:03 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+   1942998..b850b65  master -> master
+
+
+----------
+
+Sat Apr 18 2020 13:47:31 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+   b850b65..9a5c108  master -> master
+
+
+----------
+
+Sat Apr 18 2020 13:47:43 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+   9a5c108..1b1ee16  master -> master
+
+
+----------
+
+Tue Sep 27 2022 04:56:02 GMT-0400 (Eastern Daylight Time)
+
+2022-09-27 04:56:02.565 xcodebuild[93155:1986529] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionSentinelHostApplications for extension Xcode.DebuggerFoundation.AppExtensionHosts.watchOS of plug-in com.apple.dt.IDEWatchSupportCore
+2022-09-27 04:56:02.565 xcodebuild[93155:1986529] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionPointIdentifierToBundleIdentifier for extension Xcode.DebuggerFoundation.AppExtensionToBundleIdentifierMap.watchOS of plug-in com.apple.dt.IDEWatchSupportCore
+
+
+----------
+
+Tue Sep 27 2022 04:56:14 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   b88d858..28e73c0  master -> master
+
+
+----------
+
+Tue Sep 27 2022 04:57:04 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   28e73c0..9ae0cda  master -> master
+
+
+----------
+
+Tue Sep 27 2022 04:57:10 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   9ae0cda..4df86ff  master -> master
+
+
+----------
+
+Tue Sep 27 2022 05:37:46 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   04b1f92..1b09873  master -> master
+
+
+----------
+
+Tue Sep 27 2022 05:39:35 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   1b09873..79afb11  master -> master
+
+
+----------
+
+Fri Sep 30 2022 21:42:13 GMT-0400 (Eastern Daylight Time)
+
+2022-09-30 21:42:13.667 xcodebuild[45424:2030067] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionSentinelHostApplications for extension Xcode.DebuggerFoundation.AppExtensionHosts.watchOS of plug-in com.apple.dt.IDEWatchSupportCore
+
+
+----------
+
+Fri Sep 30 2022 21:42:13 GMT-0400 (Eastern Daylight Time)
+
+2022-09-30 21:42:13.667 xcodebuild[45424:2030067] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionPointIdentifierToBundleIdentifier for extension Xcode.DebuggerFoundation.AppExtensionToBundleIdentifierMap.watchOS of plug-in com.apple.dt.IDEWatchSupportCore
+
+
+----------
+
+Fri Sep 30 2022 21:42:16 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   79afb11..fb579e0  master -> master
+
+
+----------
+
+Sat Oct 01 2022 08:41:08 GMT-0400 (Eastern Daylight Time)
+
+2022-10-01 08:41:08.811 xcodebuild[29836:206461] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionSentinelHostApplications for extension Xcode.DebuggerFoundation.AppExtensionHosts.watchOS of plug-in com.apple.dt.IDEWatchSupportCore
+
+
+----------
+
+Sat Oct 01 2022 08:41:08 GMT-0400 (Eastern Daylight Time)
+
+2022-10-01 08:41:08.811 xcodebuild[29836:206461] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionPointIdentifierToBundleIdentifier for extension Xcode.DebuggerFoundation.AppExtensionToBundleIdentifierMap.watchOS of plug-in com.apple.dt.IDEWatchSupportCore
+
+
+----------
+
+Sat Oct 01 2022 08:41:12 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   fb579e0..7a22765  master -> master
+
+
+----------
+
+Sat Oct 01 2022 08:51:52 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   7a22765..6cb0f02  master -> master
+
+
+----------
+
+Sat Oct 01 2022 09:14:41 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   6cb0f02..ddfcfb5  master -> master
+
+
+----------
+
+Sun Oct 02 2022 19:59:46 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   adbfa93..746f821  master -> master
+
+
+----------
+
+Sun Oct 02 2022 20:01:59 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   746f821..65aa7de  master -> master
+
+
+----------
+
+Sun Oct 02 2022 20:02:45 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   65aa7de..0381839  master -> master
+
+
+----------
+
+Sun Oct 02 2022 20:03:38 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   0381839..c37550c  master -> master
+
+
+----------
+
+Sun Oct 02 2022 20:04:29 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   c37550c..d61d6db  master -> master
+
+
+----------
+
+Sun Oct 02 2022 20:07:50 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+ ! [rejected]        master -> master
+
+----------
+
+Sun Oct 02 2022 20:07:50 GMT-0400 (Eastern Daylight Time)
+
+ (fetch first)
+error: failed to push some refs to 'https://github.com/matmignin/matmignin.github.io.git'
+
+
+----------
+
+Sun Oct 02 2022 20:07:50 GMT-0400 (Eastern Daylight Time)
+
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+----------
+
+Sun Oct 02 2022 20:08:25 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/matmignin/matmignin.github.io.git'
+
+
+----------
+
+Sun Oct 02 2022 20:08:25 GMT-0400 (Eastern Daylight Time)
+
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+----------
+
+Sun Oct 02 2022 20:29:42 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/matmignin/matmignin.github.io.git'
+
+
+----------
+
+Sun Oct 02 2022 20:29:42 GMT-0400 (Eastern Daylight Time)
+
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+----------
+
+Sun Oct 02 2022 20:30:28 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/matmignin/matmignin.github.io.git'
+
+
+----------
+
+Sun Oct 02 2022 20:30:28 GMT-0400 (Eastern Daylight Time)
+
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+----------
+
+Sun Oct 02 2022 20:38:28 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/matmignin/matmignin.github.io.git'
+
+
+----------
+
+Sun Oct 02 2022 20:38:28 GMT-0400 (Eastern Daylight Time)
+
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+----------
+
+Sun Oct 02 2022 20:57:05 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/matmignin/matmignin.github.io.git'
+
+
+----------
+
+Sun Oct 02 2022 20:57:05 GMT-0400 (Eastern Daylight Time)
+
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+----------
+
+Mon Oct 03 2022 01:09:51 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/matmignin/matmignin.github.io.git'
+
+
+----------
+
+Mon Oct 03 2022 01:09:51 GMT-0400 (Eastern Daylight Time)
+
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+----------
+
+Mon Oct 03 2022 01:17:37 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/matmignin/matmignin.github.io.git'
+
+
+----------
+
+Mon Oct 03 2022 01:17:37 GMT-0400 (Eastern Daylight Time)
+
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+----------
+
+Mon Oct 03 2022 05:59:44 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   2e50350..5fdc95e  master -> master
+
+
+----------
+
+Mon Oct 03 2022 13:13:06 GMT-0400 (Eastern Daylight Time)
+
+2022-10-03 13:13:06.806 xcodebuild[81546:452944] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionSentinelHostApplications for extension Xcode.DebuggerFoundation.AppExtensionHosts.watchOS of plug-in com.apple.dt.IDEWatchSupportCore
+2022-10-03 13:13:06.807 xcodebuild[81546:452944] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionPointIdentifierToBundleIdentifier for extension Xcode.DebuggerFoundation.AppExtensionToBundleIdentifierMap.watchOS of plug-in com.apple.dt.IDEWatchSupportCore
+
+
+----------
+
+Mon Oct 03 2022 13:13:09 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   5fdc95e..3c9db39  master -> master
+
+
+----------
+
+Mon Oct 03 2022 13:13:57 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   3c9db39..b8e0de1  master -> master
+
+
+----------
+
+Mon Oct 03 2022 21:11:40 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   b8e0de1..f0f0705  master -> master
+
+
+----------
+
+Mon Oct 03 2022 21:11:51 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   f0f0705..711d801  master -> master
+
+
+----------
+
+Tue Oct 04 2022 00:43:12 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   711d801..57d4b89  master -> master
+
+
+----------
+
+Tue Oct 04 2022 01:09:36 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   57d4b89..a7aeecb  master -> master
+
+
+----------
+
+Tue Oct 04 2022 01:09:38 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   a7aeecb..6de2345  master -> master
+
+
+----------
+
+Fri Oct 07 2022 07:16:42 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   5425a2d..9dda908  master -> master
+
+
+----------
+
+Fri Oct 07 2022 07:57:00 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   9dda908..de9700c  master -> master
+
+
+----------
+
+Fri Oct 07 2022 10:17:44 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   de9700c..67aab87  master -> master
+
+
+----------
+
+Fri Oct 07 2022 10:59:08 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   67aab87..151257d  master -> master
+
+
+----------
+
+Fri Oct 07 2022 13:36:48 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   151257d..9689fe8  master -> master
+
+
+----------
+
+Fri Oct 07 2022 13:43:45 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   9689fe8..57449ae  master -> master
+
+
+----------
+
+Fri Oct 07 2022 13:43:57 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   57449ae..ad9a143  master -> master
+
+
+----------
+
+Fri Oct 07 2022 13:56:44 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   ad9a143..b5a5b1f  master -> master
+
+
+----------
+
+Fri Oct 07 2022 13:56:53 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   b5a5b1f..f4bb6f4  master -> master
+
+
+----------
+
+Fri Oct 07 2022 13:57:59 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   f4bb6f4..2b84a69  master -> master
+
+
+----------
+
+Wed Nov 16 2022 18:22:59 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   2b84a69..1eb3e3d  master -> master
+
+
+----------
+
+Wed Nov 16 2022 18:37:49 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   1eb3e3d..46da285  master -> master
+
+
+----------
+
+Wed Nov 16 2022 18:38:26 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   46da285..a5eaf9d  master -> master
+
+
+----------
+
+Wed Nov 16 2022 18:40:07 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   a5eaf9d..c8d7cf3  master -> master
+
+
+----------
+
+Wed Nov 16 2022 19:34:11 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   c8d7cf3..a101935  master -> master
+
+
+----------
+
+Wed Nov 16 2022 19:34:21 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   a101935..90a1c0c  master -> master
+
+
+----------
+
+Fri Jan 06 2023 21:57:32 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   90a1c0c..935f1b9  master -> master
+
+
+----------
+
+Sat Jan 14 2023 07:02:21 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   935f1b9..3e4db42  master -> master
+
+
+----------
+
+Sat Jan 14 2023 07:04:33 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   3e4db42..eb66772  master -> master
+
+
+----------
+
+Sat Jan 14 2023 07:37:38 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   eb66772..ec44175  master -> master
+
+
+----------
+
+Sat Jan 14 2023 09:31:16 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   ec44175..2cf3f55  master -> master
+
+
+----------
+
+Sat Jan 14 2023 09:58:57 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   2cf3f55..336f182  master -> master
+
+
+----------
+
+Sat Jan 14 2023 09:59:05 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   336f182..fd053e7  master -> master
+
+
+----------
+
+Sat Jan 14 2023 09:59:24 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   fd053e7..c52ef71  master -> master
+
+
+----------
+
+Sat Jan 14 2023 09:59:40 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   c52ef71..b44161c  master -> master
+
+
+----------
+
+Sat Jan 14 2023 09:59:50 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   b44161c..ef8caab  master -> master
+
+
+----------
+
+Sat Jan 14 2023 10:00:28 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   ef8caab..ddb9bf9  master -> master
+
+
+----------
+
+Sat Jan 14 2023 10:01:11 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   ddb9bf9..f09d560  master -> master
+
+
+----------
+
+Sat Jan 14 2023 10:03:37 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   f09d560..f0d5f68  master -> master
+
+
+----------
+
+Sat Jan 14 2023 10:04:54 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   f0d5f68..f808d02  master -> master
+
+
+----------
+
+Sat Jan 14 2023 10:06:12 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   f808d02..5493504  master -> master
+
+
+----------
+
+Sat Jan 14 2023 10:06:49 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   5493504..1a05ed6  master -> master
+
+
+----------
+
+Sat Jan 14 2023 10:12:59 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   1a05ed6..c133a68  master -> master
+
+
+----------
+
+Sat Jan 14 2023 10:15:04 GMT-0500 (Eastern Standard Time)
+
+To https://github.com/matmignin/matmignin.github.io.git
+   c133a68..327e6db  master -> master
+
+
+----------
+
+Mon Mar 13 2023 04:26:01 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/matmignin/matmignin.github.io'
+
+
+----------
+
+Mon Mar 13 2023 04:26:01 GMT-0400 (Eastern Daylight Time)
+
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+----------
+
+Mon Mar 13 2023 04:28:06 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/matmignin/matmignin.github.io'
+
+
+----------
+
+Mon Mar 13 2023 04:28:06 GMT-0400 (Eastern Daylight Time)
+
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+----------
+
+Mon Mar 13 2023 04:33:36 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/matmignin/matmignin.github.io'
+
+
+----------
+
+Mon Mar 13 2023 04:33:36 GMT-0400 (Eastern Daylight Time)
+
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+----------
+
+Mon Mar 13 2023 04:34:11 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/matmignin/matmignin.github.io'
+
+
+----------
+
+Mon Mar 13 2023 04:34:11 GMT-0400 (Eastern Daylight Time)
+
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+----------
+
+Mon Mar 13 2023 04:36:23 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+ + e279814...46cec1a master -> master (forced update)
+
+
+----------
+
+Mon Mar 13 2023 04:38:29 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+   46cec1a..9dbc23b  master -> master
+
+
+----------
+
+Mon Mar 13 2023 04:40:42 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+   9dbc23b..1e5ae04  master -> master
+
+
+----------
+
+Mon Mar 13 2023 04:43:46 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/matmignin/matmignin.github.io
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/matmignin/matmignin.github.io'
+
+
+----------
+
+Mon Mar 13 2023 04:43:46 GMT-0400 (Eastern Daylight Time)
+
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
